@@ -1,0 +1,154 @@
+Altium Designer Pick and Place Locations
+H:\PCB-Reviews\2020\Simone Benatti\ADS_BGA_breakout\Fabrication\Pick Place\Pick Place for PCB2_DEMO_BOARD.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.07.20
+Time:       13:17
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer       Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                                                                   
+R27        R                         TopLayer    0603                        260.182       1572.460      180      Resistor                                                                      
+R22        R                         TopLayer    0603                        618.962       1044.830      180      Resistor                                                                      
+R20        R                         TopLayer    0603                        481.042       820.900       360      Resistor                                                                      
+P7         "Header 2X2"              TopLayer    HDR2X2                      2205.982      141.880       0        "Header, 2-Pin, Dual row"                                                     
+D3         LED3                      TopLayer    0603                        125.252       1572.810      0        "Typical BLUE SiC LED"                                                        
+D2         LED3                      TopLayer    0603                        484.612       1045.480      0        "Typical BLUE SiC LED"                                                        
+D1         LED3                      TopLayer    0603                        482.912       753.790       0        "Typical BLUE SiC LED"                                                        
+C14        Cap                       BottomLayer cap_0402_R_-_modified       896.092       1839.455      270      Capacitor                                                                     
+R15        Res3                      BottomLayer res_0402_R_-_modified       1125.832      395.015       90       Resistor                                                                      
+R16        Res3                      BottomLayer res_0402_R_-_modified       1162.175      394.675       90       Resistor                                                                      
+R18        Res3                      BottomLayer res_0402_R_-_modified       1198.748      394.675       90       Resistor                                                                      
+R19        Res3                      BottomLayer res_0402_R_-_modified       1235.232      395.015       90       Resistor                                                                      
+P6         "Header 2"                TopLayer    HDR1X2                      147.922       1366.580      180      "Header, 2-Pin"                                                               
+P5         "Header 3"                TopLayer    HDR1X3                      195.612       1046.040      180      "Header, 3-Pin"                                                               
+U3         TLV70237                  BottomLayer SOT23__DDC__(R_-_PDSO-__G5) 323.792       1192.270      360      "Linear Regulator"                                                            
+C42        Cap                       BottomLayer cap_0402_R_-_modified       182.332       1174.085      270      Capacitor                                                                     
+C40        Cap                       BottomLayer cap_0402_R_-_modified       451.752       1175.035      270      Capacitor                                                                     
+C41        Cap                       TopLayer    cap_0402_R_-_modified       451.752       1175.035      90       Capacitor                                                                     
+P2         "Header 14"               TopLayer    61301421121                 419.912       135.760       180      "Header, 14-Pin"                                                              
+P3         "Header 14"               TopLayer    61301421121                 393.602       2009.520      360      "Header, 14-Pin"                                                              
+P1         "Header 16"               TopLayer    61301621121                 2220.662      746.350       90       "Header, 16-Pin"                                                              
+P4         "Header 16"               TopLayer    61301621121                 2218.712      1669.900      90       "Header, 16-Pin"                                                              
+R11        ""                        BottomLayer cap_0402_R_-_modified       1436.822      1474.040      360      Resistor                                                                      
+R10        ""                        TopLayer    cap_0402_R_-_modified       1436.822      1474.040      360      Resistor                                                                      
+C9         0.10µF                    BottomLayer SMD-0201C                   1536.052      1610.810      360      "CAP CER 0.1UF 10V X6S 0201"                                                  
+C8         0.10µF                    TopLayer    SMD-0201C                   1534.442      1547.640      270      "CAP CER 0.1UF 10V X6S 0201"                                                  
+C7         0.10µF                    TopLayer    SMD-0201C                   1627.422      1548.060      270      "CAP CER 0.1UF 10V X6S 0201"                                                  
+C2         0.10µF                    TopLayer    SMD-0201C                   1506.352      1547.640      270      "CAP CER 0.1UF 10V X6S 0201"                                                  
+C10        Cap                       TopLayer    cap_0402_R_-_modified       1420.907      1564.210      180      Capacitor                                                                     
+C1         0.10µF                    TopLayer    SMD-0201C                   1586.282      1547.640      270      "CAP CER 0.1UF 10V X6S 0201"                                                  
+U2         OSC_ADS1298               BottomLayer HC735_-_OSC_ADS1298         1042.122      1958.849      360      "Linear Regulator"                                                            
+R12        Res3                      TopLayer    res_0402_R_-_modified       811.717       1957.380      180      Resistor                                                                      
+R3         Res3                      BottomLayer res_0402_R_-_modified       811.707       1909.450      180      Resistor                                                                      
+R4         NC                        BottomLayer cap_0402_R_-_modified       1184.652      1545.535      90       Resistor                                                                      
+R8         NC                        BottomLayer cap_0402_R_-_modified       1220.262      1544.965      270      Resistor                                                                      
+R5         NC                        TopLayer    cap_0402_R_-_modified       716.912       1793.035      270      Resistor                                                                      
+R9         NC                        TopLayer    cap_0402_R_-_modified       753.552       1794.075      90       Resistor                                                                      
+R23        Res3                      TopLayer    res_0402_R_-_modified       991.352       1736.805      90       Resistor                                                                      
+R24        Res3                      TopLayer    res_0402_R_-_modified       992.572       1661.075      90       Resistor                                                                      
+R25        Res3                      TopLayer    res_0402_R_-_modified       1039.562      1736.805      90       Resistor                                                                      
+R26        Res3                      TopLayer    res_0402_R_-_modified       1028.262      1658.635      90       Resistor                                                                      
+R29        Res3                      BottomLayer res_0402_R_-_modified       868.762       2019.245      270      Resistor                                                                      
+R31        NC                        BottomLayer cap_0402_R_-_modified       833.950       2019.495      270      Resistor                                                                      
+R30        NC                        TopLayer    cap_0402_R_-_modified       1685.892      1964.535      270      Resistor                                                                      
+R32        ""                        TopLayer    cap_0402_R_-_modified       1097.117      1804.680      180      Resistor                                                                      
+R33        NC                        BottomLayer cap_0402_R_-_modified       1471.737      1953.630      360      Resistor                                                                      
+R34        NC                        TopLayer    res_0402_R_-_modified       1471.167      2022.700      360      Resistor                                                                      
+R13        Res3                      TopLayer    res_0402_R_-_modified       1041.002      2028.625      90       Resistor                                                                      
+R14        Res3                      TopLayer    res_0402_R_-_modified       1081.292      2067.245      270      Resistor                                                                      
+C35        Cap                       TopLayer    cap_0402_R_-_modified       1620.992      1964.815      270      Capacitor                                                                     
+C36        Cap                       TopLayer    cap_0402_R_-_modified       1654.782      1965.585      270      Capacitor                                                                     
+C37        Cap                       TopLayer    cap_0402_R_-_modified       1354.177      1615.100      360      Capacitor                                                                     
+C34        Cap                       TopLayer    cap_0402_R_-_modified       1471.737      1953.630      360      Capacitor                                                                     
+C38        Cap                       TopLayer    cap_0402_R_-_modified       1354.337      1644.400      360      Capacitor                                                                     
+C39        Cap                       TopLayer    cap_0402_R_-_modified       1471.477      1986.900      360      Capacitor                                                                     
+C15        Cap                       BottomLayer cap_0402_R_-_modified       1621.202      1964.625      270      Capacitor                                                                     
+R1         NC                        BottomLayer cap_0402_R_-_modified       1628.422      1469.905      90       Resistor                                                                      
+R7         NC                        BottomLayer cap_0402_R_-_modified       1566.012      1471.725      90       Resistor                                                                      
+R2         NC                        BottomLayer cap_0402_R_-_modified       1535.672      1471.645      90       Resistor                                                                      
+R6         NC                        BottomLayer cap_0402_R_-_modified       1596.782      1471.375      90       Resistor                                                                      
+C11        NC                        TopLayer    cap_0402_R_-_modified       1591.032      2021.205      270      Capacitor                                                                     
+C13        Cap                       TopLayer    cap_0402_R_-_modified       1352.477      1679.490      0        Capacitor                                                                     
+C12        Cap                       TopLayer    cap_0402_R_-_modified       1357.117      1745.440      0        Capacitor                                                                     
+U1000      ADS1298CZXGR              TopLayer    BGA64C80P8X8_800X800X106    1574.492      1755.710      180      "8-Channel, 24-Bit Analog-To-Digital Converter With Integrated ECG Front End" 
+L4         Inductor                  BottomLayer 0603                        1387.632      521.580       360      Inductor                                                                      
+C68        Cap                       TopLayer    cap_0402_R_-_modified       1514.247      573.570       360      Capacitor                                                                     
+U7         TPS73225                  TopLayer    SOT23__DDC__(R_-_PDSO-__G5) 1783.310      296.780       90       "Linear Regulator"                                                            
+U6         TPS60403                  TopLayer    SOT_23__DBV_(R_-_PDSO_-_G5) 1016.592      143.991       360      "Linear Regulator"                                                            
+C23        Cap                       TopLayer    cap_0402_R_-_modified       1756.986      440.470       360      Capacitor                                                                     
+C33        C                         TopLayer    cap_0402_R_-_modified       1496.301      309.105       270      Capacitor                                                                     
+C32        Cap                       BottomLayer cap_0402_R_-_modified       1082.837      1342.501      360      Capacitor                                                                     
+C29        Cap                       TopLayer    cap_0402_R_-_modified       1377.027      520.300       360      Capacitor                                                                     
+C28        Cap                       TopLayer    cap_0402_R_-_modified       1473.597      488.460       180      Capacitor                                                                     
+C27        C                         TopLayer    cap_0402_R_-_modified       1831.897      439.670       360      Capacitor                                                                     
+C26        Cap                       TopLayer    cap_0402_R_-_modified       1762.616      181.220       360      Capacitor                                                                     
+C22        Cap                       TopLayer    cap_0402_R_-_modified       1136.632      143.266       270      Capacitor                                                                     
+C17        Cap                       TopLayer    cap_0402_R_-_modified       795.531       185.475       270      Capacitor                                                                     
+C19        Cap                       BottomLayer cap_0402_R_-_modified       898.381       174.705       90       Capacitor                                                                     
+C18        Cap                       TopLayer    cap_0402_R_-_modified       898.381       174.705       90       Capacitor                                                                     
+C21        Cap                       TopLayer    cap_0402_R_-_modified       1115.722      247.906       90       Capacitor                                                                     
+U8         TPS72325                  TopLayer    SOT23__DDC__(R_-_PDSO-__G5) 1400.492      294.610       90       "Linear Regulator"                                                            
+TP14       1-PIN                     TopLayer    Testpt_055                  1613.422      1351.060      90       ""                                                                            
+L3         Inductor                  BottomLayer 0603                        1739.122      445.370       90       Inductor                                                                      
+L2         Inductor                  TopLayer    0603                        1204.342      195.370       90       Inductor                                                                      
+L1         Inductor                  BottomLayer 0603                        796.172       182.430       90       Inductor                                                                      
+R80        NC                        TopLayer    cap_0402_R_-_modified       897.102       924.545       90       Resistor                                                                      
+R83        Res3                      BottomLayer res_0402_R_-_modified       1162.087      904.210       360      Resistor                                                                      
+R84        NC                        TopLayer    cap_0402_R_-_modified       1611.712      1285.775      270      Resistor                                                                      
+R85        NC                        TopLayer    cap_0402_R_-_modified       1404.424      1291.575      270      Resistor                                                                      
+R87        Res3                      TopLayer    res_0402_R_-_modified       1470.976      1291.575      270      Resistor                                                                      
+R86        NC                        BottomLayer cap_0402_R_-_modified       1462.122      1178.605      90       Resistor                                                                      
+R82        Res3                      BottomLayer res_0402_R_-_modified       1162.087      858.390       360      Resistor                                                                      
+R81        Res3                      BottomLayer res_0402_R_-_modified       1162.096      815.851       180      Resistor                                                                      
+R21        R                         TopLayer    cap_0402_R_-_modified       1422.357      116.370       360      Resistor                                                                      
+C83        Cap                       TopLayer    cap_0402_R_-_modified       1438.052      1274.985      270      Capacitor                                                                     
+C82        Cap                       TopLayer    cap_0402_R_-_modified       1557.032      463.176       90       Capacitor                                                                     
+C81        Cap                       TopLayer    cap_0402_R_-_modified       1591.882      463.036       90       Capacitor                                                                     
+C80        Cap                       TopLayer    cap_0402_R_-_modified       1370.551      1275.016      270      Capacitor                                                                     
+C79        Cap                       TopLayer    cap_0402_R_-_modified       1505.392      1285.915      270      Capacitor                                                                     
+C78        Cap                       TopLayer    cap_0402_R_-_modified       1575.722      1286.526      270      Capacitor                                                                     
+C77        Cap                       TopLayer    cap_0402_R_-_modified       1540.562      1285.985      270      Capacitor                                                                     
+C76        NC                        BottomLayer cap_0402_R_-_modified       1758.851      820.655       270      Capacitor                                                                     
+C74        Cap                       TopLayer    cap_0402_R_-_modified       1356.786      1156.150      180      Capacitor                                                                     
+C73        Cap                       TopLayer    cap_0402_R_-_modified       1302.521      662.505       90       Capacitor                                                                     
+C72        Cap                       TopLayer    cap_0402_R_-_modified       1380.206      564.051       360      Capacitor                                                                     
+C71        Cap                       BottomLayer cap_0402_R_-_modified       1645.163      523.894       90       Capacitor                                                                     
+U12        BLM15PD121SN1             TopLayer    BLM15PD121SN1               363.736       553.740       180      ""                                                                            
+U18        ADS1298                   TopLayer    S-PQFP_-_G64_-_ADS1298      1589.218      874.930       180      ADS1298                                                                       
+U10        BLM15PD121SN1             TopLayer    BLM15PD121SN1               358.556       833.770       180      ""                                                                            
+U1         TPS79333                  TopLayer    SOT_23__DBV_(R_-_PDSO_-_G5) 651.482       1463.229      0        Regulator                                                                     
+R79        Res3                      BottomLayer res_0402_R_-_modified       1162.096      725.581       360      Resistor                                                                      
+R78        NC                        TopLayer    cap_0402_R_-_modified       939.922       924.545       270      Resistor                                                                      
+R77        NC                        BottomLayer cap_0402_R_-_modified       1657.922      782.475       270      Resistor                                                                      
+R76        NC                        BottomLayer cap_0402_R_-_modified       1724.681      782.475       270      Resistor                                                                      
+R75        NC                        BottomLayer cap_0402_R_-_modified       1682.862      523.595       90       Resistor                                                                      
+R74        NC                        BottomLayer cap_0402_R_-_modified       1691.052      821.385       270      Resistor                                                                      
+R28        NC                        TopLayer    cap_0402_R_-_modified       364.127       622.240       180      Resistor                                                                      
+R17        R                         TopLayer    cap_0402_R_-_modified       1799.717      133.080       180      Resistor                                                                      
+C75        Cap                       BottomLayer cap_0402_R_-_modified       1659.612      964.095       270      Capacitor                                                                     
+C70        Cap                       TopLayer    cap_0402_R_-_modified       1701.931      1283.855      270      Capacitor                                                                     
+C69        Cap                       TopLayer    cap_0402_R_-_modified       1645.121      523.466       270      Capacitor                                                                     
+C67        Cap                       TopLayer    cap_0402_R_-_modified       1692.541      564.155       90       Capacitor                                                                     
+C66        Cap                       TopLayer    cap_0402_R_-_modified       1622.246      1213.070      360      Capacitor                                                                     
+C31        Cap                       TopLayer    cap_0402_R_-_modified       1382.057      174.220       180      Capacitor                                                                     
+C30        Cap                       TopLayer    cap_0402_R_-_modified       1377.737      434.080       360      Capacitor                                                                     
+C25        Cap                       TopLayer    cap_0402_R_-_modified       1756.986      508.820       360      Capacitor                                                                     
+C24        Cap                       TopLayer    cap_0402_R_-_modified       1756.986      477.190       360      Capacitor                                                                     
+C20        Cap                       TopLayer    cap_0402_R_-_modified       1008.132      246.906       90       Capacitor                                                                     
+C16        Cap                       TopLayer    cap_0402_R_-_modified       1016.756      48.170        360      Capacitor                                                                     
+C6         Cap                       TopLayer    cap_0402_R_-_modified       546.482       1495.551      90       Capacitor                                                                     
+C5         Cap                       TopLayer    cap_0402_R_-_modified       756.482       1490.551      90       Capacitor                                                                     
+C4         Cap                       TopLayer    cap_0402_R_-_modified       801.482       1490.551      270      Capacitor                                                                     
+C3         Cap                       TopLayer    cap_0402_R_-_modified       781.481       1410.552      180      Capacitor                                                                     
+J1         "Connector Micro USB_(b)" TopLayer    CONNECTOR_MICRO_USB_B_TYPE  148.813       694.110       270      "CONNECTOR MICRO USB"                                                         
+C112       Cap                       BottomLayer cap_0402_R_-_modified       1663.622      1096.965      90       Capacitor                                                                     
+C113       Cap                       BottomLayer cap_0402_R_-_modified       1581.912      966.315       90       Capacitor                                                                     
+C114       Cap                       BottomLayer cap_0402_R_-_modified       1580.402      796.605       270      Capacitor                                                                     
+U9         OSC_ADS1298               BottomLayer HC735_-_OSC_ADS1298         1031.392      1183.619      360      "Linear Regulator"                                                            
+C1001      Cap                       TopLayer    cap_0402_R_-_modified       1742.912      1283.855      270      Capacitor                                                                     
+R1002      Res3                      BottomLayer res_0402_R_-_modified       884.562       1155.475      270      Resistor                                                                      
+R1003      NC                        BottomLayer cap_0402_R_-_modified       884.562       1073.755      90       Resistor                                                                      
